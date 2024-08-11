@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.button{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:100px;
+    background:red;
+}
+
+button{
+    background:green;
+    
+}
