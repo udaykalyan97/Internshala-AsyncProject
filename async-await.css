@@ -1,10 +1,9 @@
 *{
-    background-color: yellow;
+    background-color: grey;
     margin: 0px;
     padding: 0px;
 }
 
-/* Center the button and message */
 .button {
     display: flex;
     flex-direction: column;
@@ -12,23 +11,23 @@
     justify-content: center;
 }
 
-/* Style for the button */
+
 .button button {
-    padding: 20px; 
-    margin: 10px;
+    padding: 10px;
+    margin: 50px;
     cursor: pointer; 
-    background-color: green;
+    background-color:green;
 }
 
-/* Style for the message div */
+
 #message {
-    margin-top: 10px; 
     border: 1px solid black;
-    padding: 10px; 
+    padding: 30px; 
+    margin: 10px;
     text-align: center; 
-    width: 50%;
+    width: 50%; 
     margin-left: auto; 
     margin-right: auto; 
-    background-color: black;
-    color: white;
+    background: lightblue;
+    color: grey;
 }
